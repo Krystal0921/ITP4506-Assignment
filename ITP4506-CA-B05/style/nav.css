@@ -1,0 +1,13 @@
+.navbar {
+    background-color: #d18d2a !important;
+    height: 50px;
+}
+
+.nav-link {
+    color: white;
+    font-size: 18px;
+}
+
+.nav-link:hover {
+    color: #f5f5f5;
+}

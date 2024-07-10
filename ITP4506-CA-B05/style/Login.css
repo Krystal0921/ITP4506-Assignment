@@ -1,0 +1,51 @@
+form {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: white;
+    width: 300px;
+    height: 470px;
+    text-align: center;
+}
+
+.choose_create_account {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: white;
+    width: 300px;
+    height: 60px;
+    text-align: center;
+}
+
+.fieldset {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: -5px;
+    padding: 15px;
+    background-color: white;
+    width: 400px;
+    border: none;
+    border-radius: 2%;
+    box-shadow: 0 0 20px white;
+}
+
+input {
+    width: 100%;
+    padding: 8px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: 2px solid #eacc9a;
+    border-radius: 4px;
+}
+
+input:focus {
+    outline: none !important;
+    box-shadow: 0 0 5px #719ECE;
+}
+
+.btn {
+    width: 80%;
+    background-color: #c1a683;
+    color: beige;
+    padding: 10px 5px;
+    margin: 10px 13px;
+    border: none;
+    border-radius: 4px;
+}

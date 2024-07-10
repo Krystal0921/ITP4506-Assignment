@@ -1,0 +1,64 @@
+form {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: white;
+    width: 300px;
+    height: 50px;
+    text-align: center;
+}
+
+.fieldset {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10%;
+    padding: 15px;
+    background-color: white;
+    width: 400px;
+    border: none;
+    border-radius: 2%;
+}
+
+input {
+    width: 100%;
+    padding: 8px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: 2px solid #eacc9a;
+    border-radius: 4px;
+}
+
+input:focus {
+    outline: none !important;
+    box-shadow: 0 0 5px #719ECE;
+}
+
+textarea {
+    width: 100%;
+    padding: 8px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: 2px solid #eacc9a;
+    border-radius: 4px;
+}
+
+textarea:focus {
+    outline: none !important;
+    box-shadow: 0 0 5px #719ECE;
+}
+
+
+.btn {
+    width: 80%;
+    background-color: #c1a683;
+    color: beige;
+    padding: 10px 5px;
+    margin: 8px 4px;
+    border: none;
+    border-radius: 4px;
+}
+
+.hdr2 {
+    font-size: 30px; 
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: #946434;
+    font: optional bold;
+}
